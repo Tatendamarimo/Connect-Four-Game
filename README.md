@@ -10,7 +10,6 @@ Welcome to the Connect Four Game! This project is a two-player game where each p
 - [Usage](#usage)
 - [Features](#features)
 - [Troubleshooting](#troubleshooting)
-- [Contributing](#contributing)
 - [License](#license)
 
 ## Installation
@@ -77,16 +76,6 @@ Here are some common issues and their solutions:
 ### Installation Failed
 
 - **Solution:** Try reinstalling the program. Ensure that you have sufficient permissions and that no other processes are interfering with the installation. If the problem persists, contact customer support.
-
-## Contributing
-
-We welcome contributions to improve the Connect Four Game! Here’s how you can contribute:
-
-1. Fork the repository.
-2. Create a new branch (`git checkout -b feature/YourFeature`).
-3. Make your changes and commit them (`git commit -m 'Add some feature'`).
-4. Push to the branch (`git push origin feature/YourFeature`).
-5. Open a Pull Request.
 
 ## License
 

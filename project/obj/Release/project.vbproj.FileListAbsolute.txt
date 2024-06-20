@@ -1,0 +1,14 @@
+C:\Users\taten\source\repos\project\project\bin\Release\project.exe.config
+C:\Users\taten\source\repos\project\project\bin\Release\project.exe
+C:\Users\taten\source\repos\project\project\bin\Release\project.pdb
+C:\Users\taten\source\repos\project\project\bin\Release\project.xml
+C:\Users\taten\source\repos\project\project\obj\Release\project.vbproj.AssemblyReference.cache
+C:\Users\taten\source\repos\project\project\obj\Release\project.vbproj.SuggestedBindingRedirects.cache
+C:\Users\taten\source\repos\project\project\obj\Release\project.Form1.resources
+C:\Users\taten\source\repos\project\project\obj\Release\project.Form2.resources
+C:\Users\taten\source\repos\project\project\obj\Release\project.Resources.resources
+C:\Users\taten\source\repos\project\project\obj\Release\project.vbproj.GenerateResource.cache
+C:\Users\taten\source\repos\project\project\obj\Release\project.vbproj.CoreCompileInputs.cache
+C:\Users\taten\source\repos\project\project\obj\Release\project.exe
+C:\Users\taten\source\repos\project\project\obj\Release\project.xml
+C:\Users\taten\source\repos\project\project\obj\Release\project.pdb

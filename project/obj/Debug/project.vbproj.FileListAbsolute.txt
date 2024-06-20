@@ -1,0 +1,21 @@
+C:\Users\taten\source\repos\project\project\bin\Debug\project.exe.config
+C:\Users\taten\source\repos\project\project\bin\Debug\project.exe
+C:\Users\taten\source\repos\project\project\bin\Debug\project.pdb
+C:\Users\taten\source\repos\project\project\bin\Debug\project.xml
+C:\Users\taten\source\repos\project\project\obj\Debug\project.vbproj.AssemblyReference.cache
+C:\Users\taten\source\repos\project\project\obj\Debug\project.vbproj.SuggestedBindingRedirects.cache
+C:\Users\taten\source\repos\project\project\obj\Debug\project.Form1.resources
+C:\Users\taten\source\repos\project\project\obj\Debug\project.Resources.resources
+C:\Users\taten\source\repos\project\project\obj\Debug\project.vbproj.GenerateResource.cache
+C:\Users\taten\source\repos\project\project\obj\Debug\project.vbproj.CoreCompileInputs.cache
+C:\Users\taten\source\repos\project\project\obj\Debug\project.exe
+C:\Users\taten\source\repos\project\project\obj\Debug\project.xml
+C:\Users\taten\source\repos\project\project\obj\Debug\project.pdb
+C:\Users\taten\source\repos\project\project\obj\Debug\project.Form2.resources
+C:\Users\taten\OneDrive\Desktop\Tatenda Marimo NCC Level3\project\project\obj\Debug\project.vbproj.AssemblyReference.cache
+C:\Users\taten\OneDrive\Desktop\Tatenda Marimo NCC Level3\project\project\obj\Debug\project.Form1.resources
+C:\Users\taten\OneDrive\Desktop\Tatenda Marimo NCC Level3\project\project\obj\Debug\project.Form2.resources
+C:\Users\taten\OneDrive\Desktop\Tatenda Marimo NCC Level3\project\project\obj\Debug\project.vbproj.GenerateResource.cache
+C:\Users\taten\OneDrive\Desktop\Tatenda Marimo NCC Level3\project\project\obj\Debug\project.exe
+C:\Users\taten\OneDrive\Desktop\Tatenda Marimo NCC Level3\project\project\obj\Debug\project.xml
+C:\Users\taten\OneDrive\Desktop\Tatenda Marimo NCC Level3\project\project\obj\Debug\project.pdb

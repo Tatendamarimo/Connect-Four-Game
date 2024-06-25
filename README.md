@@ -25,7 +25,7 @@ Follow these steps to install the Connect Four game on your system:
 
 1. **Clone the Repository**
    ```sh
-   git clone https://github.com/your-username/connect-four-game.git
+   git clone https://github.com/Tatendamarimo/Connect-Four-Game.git
    cd connect-four-game
    ```
 
